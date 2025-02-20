@@ -24,12 +24,13 @@ Passionate about building scalable and high-performance web applications. Experi
 ### **Course Flow**  
 📌 *Developed an online course platform where users can access lessons, submit assignments, and track progress.*  
 🔹 *Tech Stack:* React, Next.js, Tailwind CSS, PostgreSQL  
-🔗 [GitHub Repository](#)
+🔗 [GitHub Repository](https://github.com/TheYami/course-flow)
+🔗 [Website](https://course-flow-five.vercel.app/)
 
 ### **Q&A API**  
 📌 *Designed and implemented a RESTful API for a Q&A platform, enabling users to post, like/unlike, and search for questions.*  
 🔹 *Tech Stack:* Node.js, Express.js, PostgreSQL  
-🔗 [GitHub Repository](#)
+🔗 [GitHub Repository](https://github.com/Chanathip-Khw/backend-skill-checkpoint-express-server)
 
 ---
 
