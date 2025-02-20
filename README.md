@@ -12,7 +12,7 @@ Passionate about building scalable and high-performance web applications. Experi
 - React | Vue.js | Tailwind CSS | Next.js  
   
 ### **Backend**  
-- Django REST | Node.js | Express.js | PostgreSQL | MongoDB  
+- Django REST | Node.js | Express.js | PostgreSQL | MongoDB  | Next.js
   
 ### **Tools & Other Skills**  
 - Git | Agile Methodologies  
