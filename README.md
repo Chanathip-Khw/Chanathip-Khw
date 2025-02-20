@@ -1,6 +1,6 @@
 # Hi, I'm Chanathip Khlowutthiwat! 👋
 
-## 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast
+## 🚀 Full-Stack Developer
 
 Passionate about building scalable and high-performance web applications. Experienced in both frontend and backend development, I love working with modern technologies to create impactful solutions.
 
@@ -15,7 +15,7 @@ Passionate about building scalable and high-performance web applications. Experi
 - Django REST | Node.js | Express.js | PostgreSQL | MongoDB  
   
 ### **Tools & Other Skills**  
-- Git | Docker | Swagger | REST API Development | Agile Methodologies  
+- Git | Agile Methodologies  
 
 ---
 
@@ -37,16 +37,4 @@ Passionate about building scalable and high-performance web applications. Experi
 
 - **B.Eng in Mechanical Engineering** – Chulalongkorn University *(First Class Honor, GPAX 3.66)*  
 - **Full-Stack Developer Bootcamp** – TechUp  
-
----
-
-## 📫 Let's Connect!
-
-- 🔗 **GitHub:** [Chanathip-Khw](https://github.com/Chanathip-Khw)  
-- 💼 **LinkedIn:** [Chanathip-Khlowutthiwat](https://linkedin.com/in/chanathip-khlowutthiwat)  
-- 📧 **Email:** chanathip.khw@gmail.com  
-
----
-
-💡 *Always open to collaboration and new opportunities!* 🚀
 
