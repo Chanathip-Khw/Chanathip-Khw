@@ -21,6 +21,12 @@ Passionate about building scalable and high-performance web applications. Experi
 
 ## 💡 Projects
 
+### **Brainstorming app**  
+📌 *Built a brainstorming app with Google Sign-In and refresh jwt token, session management, team creation, friend invites, and real-time collaborative boards for ideation based on the Design Thinking "Ideate" phase.*  
+🔹 *Tech Stack:* React, Next.js, Fastify, Nodejs, Typescrip, PostgreSQL  
+🔗 [GitHub Repository](https://github.com/Chanathip-Khw/Brainstroming)
+🔗 [Website](https://brainstroming-932z.vercel.app/)
+
 ### **Course Flow**  
 📌 *Developed an online course platform where users can access lessons, submit assignments, and track progress.*  
 🔹 *Tech Stack:* React, Next.js, Tailwind CSS, PostgreSQL  
